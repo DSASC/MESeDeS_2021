@@ -1,0 +1,7 @@
+sample ID	TubePartA_slope_or_plant	TubePartB	DeadOrAlive	Niche	Geodiversity	Experiment	Location	GeoLocation	S
+AS3006	O1	I2	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	AS3006
+AS3016	O2	I2	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	AS3016
+AS3017	O2	I3	Live	Intershrub	Homogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	AS3017
+AS3035	H1	I1	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	AS3035
+AS3056	H3	I2	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	AS3056
+AS3058	H3	I4	Live	Intershrub	Heterogenous	H_VS_O	Israel:Ofakim,SayeretShakedPark	"31°16'32.7""N 34°39'22.1""E"	AS3058
